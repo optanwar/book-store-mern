@@ -9,7 +9,7 @@ import email from "../../public/images/envelope.svg";
 const Footer = () => {
   return (
     <div className="py-2 text-center border-t-2 bg-[#70297d] text-white border-purple-500">
-      <div className="py-10 md:flex w-11/12 justify-center items-center">
+      <div className="py-20 md:flex w-11/12 justify-center items-center">
         <div className="text-left pt-5 px-5 w-1/2 ">
           <h2 className="text-3xl font-semibold font-sans py-1">
             Online Book Store
@@ -77,4 +77,3 @@ const Footer = () => {
 };
 
 export default Footer;
- 
