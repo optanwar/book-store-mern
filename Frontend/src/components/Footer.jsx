@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="py-20 md:flex w-11/12 justify-center items-center">
         <div className="text-left pt-5 px-5 w-1/2 ">
           <h2 className="text-3xl font-semibold font-sans py-1">
-            Online Book Store
+            Online Books Store 
           </h2>
           <p className="font-sans text-base pb-4">
             Browse the collection of our best top interesting Books. you will
