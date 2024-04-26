@@ -70,7 +70,7 @@ const Footer = () => {
         </div>
       </div>
       <h1 className="text-sm pt-2 border-t border-purple-400">
-        Copyright &copy; 2024 OPTANWAR.
+        Copyright &copy;2024 OPTANWAR.
       </h1>
     </div>
   );
